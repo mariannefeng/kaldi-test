@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netlify CMS small-business template
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
@@ -41,3 +42,6 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+=======
+# kaldi-test
+>>>>>>> 814c1fca8c120ab5030a5d874cb26df8b515a091
